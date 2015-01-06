@@ -28,6 +28,7 @@ for(int i = 0; i < n; i++)
 ```
 
 Here we have a table 
+
 H1  | H2
 ----|-----
 a|b
